@@ -4,9 +4,9 @@
          "name":"Movies",
          "videos":[
             {
-               "description":"Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\n\nLicensed under the Creative Commons Attribution license\nhttp://www.bigbuckbunny.org",
+               "description":"Bog Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\n\nLicensed under the Creative Commons Attribution license\nhttp://www.bigbuckbunny.org",
                "sources":[
-                  "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                  "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo2.mp4"
                ],
                "subtitle":"By Blender Foundation",
                "thumb":"http://1.bp.blogspot.com/-OvNsv0VgmhI/S3Yu6k8_zfI/AAAAAAAAIvs/oJzBp2zT06c/s1600/sai%2Bbabaji%2B349.jpg",
